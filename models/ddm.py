@@ -12,7 +12,6 @@ from math import sqrt
 import torch.nn as nn
 from torch.nn import functional as F
 import torch.optim
-import clip_loss as clip_loss
 from collections import OrderedDict
 from torch.utils.tensorboard import SummaryWriter
 import clip
